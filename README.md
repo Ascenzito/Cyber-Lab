@@ -140,4 +140,4 @@ Saved the workbook as `Attack Map`. The result was a live, interactive world map
 
 Within a short time of the VM being exposed to the internet, it began receiving hundreds of brute force login attempts from IP addresses across multiple countries. This lab demonstrates how quickly internet-exposed systems are discovered and targeted, and how a SIEM like Microsoft Sentinel can be used to collect, enrich, and visualise that threat data in a way that is actionable for a SOC analyst.
 
-> ⚠️ **Note:** All Azure resources (VM, Log Analytics Workspace, Sentinel, Resource Group) were deleted after the lab was completed to avoid incurring charges beyond the free credit period.
+>  **Note:** All Azure resources (VM, Log Analytics Workspace, Sentinel, Resource Group) were deleted after the lab was completed to avoid incurring charges beyond the free credit period.
